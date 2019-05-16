@@ -1,0 +1,23 @@
+.nav-link {
+	color: red;
+}
+
+body, html {
+  height: 100%;
+  background-color: rgba(223, 249, 251,.5);
+  margin: 10px;
+
+}
+
+.bg {
+  /* The image used */
+  background-image: url("h1.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
